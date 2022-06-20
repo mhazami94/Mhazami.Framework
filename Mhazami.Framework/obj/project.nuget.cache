@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tprv9uRFDBdWJyk8/reMWwMafvyuUDmv55kdr9LUQNLt14cipZvMs0jLI9dcD5NL2WmcoCQynlp81UoDJ4KhUw==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Framework\\Mhazami.Framework\\Mhazami.Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhazami\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

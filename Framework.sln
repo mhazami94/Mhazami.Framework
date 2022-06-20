@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mhazami.Framework", "Mhazami.Framework\Mhazami.Framework.csproj", "{E475445D-A41E-4994-A20D-094CCEDD3B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E475445D-A41E-4994-A20D-094CCEDD3B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E475445D-A41E-4994-A20D-094CCEDD3B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E475445D-A41E-4994-A20D-094CCEDD3B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E475445D-A41E-4994-A20D-094CCEDD3B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4289DC92-69D4-4100-AEC9-702A89E80228}
+	EndGlobalSection
+EndGlobal
