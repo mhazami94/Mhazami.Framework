@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mhazami.Framework", "Mhazami.Framework\Mhazami.Framework.csproj", "{E475445D-A41E-4994-A20D-094CCEDD3B2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mhazami.Utility", "Mhazami.Utility\Mhazami.Utility.csproj", "{B5D22C43-CEC6-482C-8A91-7E5814BEF24A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E475445D-A41E-4994-A20D-094CCEDD3B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E475445D-A41E-4994-A20D-094CCEDD3B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E475445D-A41E-4994-A20D-094CCEDD3B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D22C43-CEC6-482C-8A91-7E5814BEF24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D22C43-CEC6-482C-8A91-7E5814BEF24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D22C43-CEC6-482C-8A91-7E5814BEF24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D22C43-CEC6-482C-8A91-7E5814BEF24A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mhazami.Utility</id>
+    <version>1.0.1</version>
+    <authors>Mohammad Azami</authors>
+    <description>A set of utilities written for .NET programmers
+Included :
+Gregorian Calendar, Shamsi Calendar, Hijri Calendar, Data Types in C #, Enum, Predicate Builder, ...</description>
+    <tags>.Net Utilities, Gregorian Calendar Utility, Shamsi Calendar Utility, Hijri Calendar Utility, Data Types Utilities in C #, Enum Utility, Predicate Builder Utility</tags>
+    <repository url="https://github.com/mhazami94/Mhazami.Framework/tree/main/Mhazami.Utility" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Workspace\Framework\Mhazami.Utility\bin\Debug\net6.0\fa-IR\Mhazami.Utility.resources.dll" target="lib\net6.0\fa-IR\Mhazami.Utility.resources.dll" />
+    <file src="D:\Workspace\Framework\Mhazami.Utility\bin\Debug\net6.0\Mhazami.Utility.dll" target="lib\net6.0\Mhazami.Utility.dll" />
+  </files>
+</package>
