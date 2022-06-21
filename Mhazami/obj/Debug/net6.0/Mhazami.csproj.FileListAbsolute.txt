@@ -1,0 +1,12 @@
+D:\Workspace\Framework\Mhazami\bin\Debug\net6.0\Mhazami.deps.json
+D:\Workspace\Framework\Mhazami\bin\Debug\net6.0\Mhazami.dll
+D:\Workspace\Framework\Mhazami\bin\Debug\net6.0\Mhazami.pdb
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\Mhazami.csproj.AssemblyReference.cache
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\Mhazami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\Mhazami.AssemblyInfoInputs.cache
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\Mhazami.AssemblyInfo.cs
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\Mhazami.csproj.CoreCompileInputs.cache
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\Mhazami.dll
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\refint\Mhazami.dll
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\Mhazami.pdb
+D:\Workspace\Framework\Mhazami\obj\Debug\net6.0\ref\Mhazami.dll

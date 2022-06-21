@@ -1,11 +1,17 @@
 D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\Mhazami.Framework.deps.json
 D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\Mhazami.Framework.dll
 D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\Mhazami.Framework.pdb
+D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\Mhazami.dll
+D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\Mhazami.Utility.dll
+D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\Mhazami.Utility.pdb
+D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\Mhazami.pdb
+D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\fa-IR\Mhazami.Utility.resources.dll
 D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\Mhazami.Framework.csproj.AssemblyReference.cache
 D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\Mhazami.Framework.GeneratedMSBuildEditorConfig.editorconfig
 D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\Mhazami.Framework.AssemblyInfoInputs.cache
 D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\Mhazami.Framework.AssemblyInfo.cs
 D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\Mhazami.Framework.csproj.CoreCompileInputs.cache
+D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\Mhazami.Framework.csproj.CopyComplete
 D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\Mhazami.Framework.dll
 D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\refint\Mhazami.Framework.dll
 D:\Workspace\Framework\Mhazami.Framework\obj\Debug\net6.0\Mhazami.Framework.pdb

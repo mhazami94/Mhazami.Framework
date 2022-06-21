@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mhazami.Framework</id>
+    <version>1.1.1</version>
+    <authors>Mohammad Azami</authors>
+    <description>This is a framework powered by ADO.NET which includes ORM and some useful utilities
+How to Use (Documentation and Samples): https://github.com/mhazami94/Mhazami.Framework</description>
+    <tags>ORM,Framework,Dapper,Repository,Dapper Repository</tags>
+    <repository url="https://github.com/mhazami94/Mhazami.Framework" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Mhazami.Utility" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="Mhazami" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Workspace\Framework\Mhazami.Framework\bin\Debug\net6.0\Mhazami.Framework.dll" target="lib\net6.0\Mhazami.Framework.dll" />
+  </files>
+</package>
